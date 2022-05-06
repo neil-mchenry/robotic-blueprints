@@ -1,0 +1,1487 @@
+﻿Log file open, 04/13/22 11:23:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: RobotAI_SIM
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.136633
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:236][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:249][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.13-16.23.43:249][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.13-16.23.43:250][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.13-16.23.43:251][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.13-16.23.43:251][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.13-16.23.43:251][  0]LogHAL: Display: Platform has ~ 16 GB [17042726912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.13-16.23.43:251][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.13-16.23.43:251][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.13-16.23.43:251][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.13-16.23.43:252][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Scalability.ini]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.13-16.23.43:253][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Engine.ini]
+[2022.04.13-16.23.43:253][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/RobotAI_SIM/Saved/Config/Windows/Editor.ini]
+[2022.04.13-16.23.43:253][  0]LogInit: Computer: AERO-353134-LT1
+[2022.04.13-16.23.43:253][  0]LogInit: User: astroadmin
+[2022.04.13-16.23.43:253][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.04.13-16.23.43:253][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.13-16.23.43:253][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.13-16.23.43:253][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.13-16.23.43:253][  0]LogMemory: Process Physical Memory: 146.90 MB used, 146.91 MB peak
+[2022.04.13-16.23.43:253][  0]LogMemory: Process Virtual Memory: 128.30 MB used, 128.30 MB peak
+[2022.04.13-16.23.43:253][  0]LogMemory: Physical Memory: 9538.57 MB used,  6714.64 MB free, 16253.21 MB total
+[2022.04.13-16.23.43:253][  0]LogMemory: Virtual Memory: 134211112.00 MB used,  6614.24 MB free, 134217728.00 MB total
+[2022.04.13-16.23.43:837][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.13-16.23.44:536][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.13-16.23.44:539][  0]LogInit: Using OS detected language (en-US).
+[2022.04.13-16.23.44:539][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.13-16.23.44:543][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.13-16.23.44:833][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.13-16.23.44:864][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.13-16.23.44:979][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.13-16.23.44:979][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.13-16.23.45:258][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.13-16.23.45:362][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.04.13-16.23.45:362][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.13-16.23.45:362][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.13-16.23.45:362][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.13-16.23.47:289][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2022.04.13-16.23.47:289][  0]LogD3D11RHI:       6052/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.13-16.23.49:918][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2022.04.13-16.23.49:918][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     SubSysId    : 7741028
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     SharedSystemMemory : 8521363456 bytes
+[2022.04.13-16.23.50:070][  0]LogD3D11RHI:     AdapterLuid : 0 101213
+[2022.04.13-16.23.50:079][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.13-16.23.50:079][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.13-16.23.50:079][  0]LogWindows: EnumDisplayDevices:
+[2022.04.13-16.23.50:079][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.04.13-16.23.50:079][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.04.13-16.23.50:080][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.04.13-16.23.50:080][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.04.13-16.23.50:080][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.04.13-16.23.50:081][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.04.13-16.23.50:081][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2022.04.13-16.23.50:081][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:   Driver Version: 431.53 (internal:26.21.14.3153, unified:431.53)
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:      Driver Date: 7-12-2019
+[2022.04.13-16.23.50:081][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1060
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     DeviceId    : 1c20
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     SubSysId    : 7741028
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     DedicatedVideoMemory : 6345981952 bytes
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     SharedSystemMemory : 8521363456 bytes
+[2022.04.13-16.23.50:081][  0]LogD3D11RHI:     AdapterLuid : 0 101213
+[2022.04.13-16.23.50:385][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.13-16.23.50:386][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.13-16.23.50:386][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.13-16.23.50:409][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.13-16.23.50:567][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.13-16.23.51:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.13-16.23.51:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.13-16.23.51:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.13-16.23.51:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.13-16.23.51:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.13-16.23.51:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.13-16.23.51:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.13-16.23.51:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.13-16.23.51:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.13-16.23.51:723][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.13-16.23.51:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.13-16.23.51:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.13-16.23.51:815][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.13-16.23.51:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.13-16.23.51:881][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.13-16.23.51:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.13-16.23.51:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.13-16.23.51:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.13-16.23.52:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.13-16.23.52:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.13-16.23.52:100][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.13-16.23.52:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.13-16.23.52:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.13-16.23.52:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.13-16.23.52:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.13-16.23.52:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.13-16.23.52:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.13-16.23.52:266][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.13-16.23.52:405][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.13-16.23.52:909][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.13-16.23.54:227][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.13-16.23.54:227][  0]LogShaderCompilers: Guid format shader working directory is 9 characters bigger than the processId version (../../../../../UnrealProjects/RobotAI_SIM/Intermediate/Shaders/WorkingDirectory/24420/).
+[2022.04.13-16.23.54:227][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/astroadmin/AppData/Local/Temp/UnrealShaderWorkingDir/18D9107C4A82E240E55D458BCE983B62/'.
+[2022.04.13-16.23.54:227][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.13-16.23.54:228][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.13-16.23.54:228][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.13-16.23.55:186][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.13-16.23.55:266][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/astroadmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.13-16.23.55:266][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/astroadmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.13-16.23.55:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/RobotAI_SIM/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.13-16.23.55:266][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.13-16.23.55:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/RobotAI_SIM/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.13-16.23.55:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.13-16.23.55:291][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.13-16.23.55:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.13-16.23.55:291][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.13-16.23.55:300][  0]LogDerivedDataCache: Speed tests for C:/Users/astroadmin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.13-16.23.55:300][  0]LogDerivedDataCache: Display: Performance to C:/Users/astroadmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=533.54MBs, RandomWriteSpeed=136.81MBs. Assigned SpeedClass 'Local'
+[2022.04.13-16.23.55:301][  0]LogDerivedDataCache: Using Local data cache path C:/Users/astroadmin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.13-16.23.55:301][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.13-16.23.55:301][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.13-16.23.55:373][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.13-16.23.55:373][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.13-16.23.55:422][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2022.04.13-16.23.55:696][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.13-16.23.55:696][  0]LogInit: Active device profile: [000001B2E5340E00][000001B2DE1B8EC0 49] Windows
+[2022.04.13-16.23.55:696][  0]LogInit: Profiles: [000001B2E5340E00][000001B2DE1B8EC0 49] Windows, [000001B2E52EE300][000001B2E3037040 49] WindowsNoEditor, [000001B2E5341D00][000001B2E3CCD1C0 49] WindowsServer, [000001B2E52EF100][000001B2DE067340 49] WindowsClient, [000001B2E5342A00][000001B2DE06B4C0 49] IOS, [000001B2E52EF700][000001B2E3A5B640 49] iPadAir, [000001B2E5341500][000001B2E3A577C0 49] iPadAir2, [000001B2E52A5200][000001B2E2E53A80 49] IPadPro, [000001B2E52A5300][000001B2E2E4FAC0 49] iPadAir3, [000001B2E52ECC00][000001B2E2E560C0 49] iPadAir4, [000001B2E52A5F00][000001B2E2FE8240 49] iPadMini2, [000001B2E52EEF00][000001B2E2FEC3C0 49] iPadMini3, [000001B2E52A6900][000001B2E2FF0540 49] iPadMini4, [000001B2E52ECF00][000001B2E2FF46C0 49] iPadMini5, [000001B2E52ACC00][000001B2E2EA4900 49] iPhone6, [000001B2E52ACD00][000001B2DA8BE940 49] iPodTouch6, [000001B2E5342700][000001B2E2EACB80 49] iPhone7, [000001B2E5342900][000001B2E2EA8BC0 49] iPodTouch7, [000001B2E52A5100][000001B2E2EB4D40 49] iPhone5S, [000001B2E5342C00][000001B2E2EB8EC0 49] iPhone6Plus, [000001B2E52A7F00][000001B2E2EBD040 49] iPhone6S, [000001B2E52A4100][000001B2E38A31C0 49] iPhone6SPlus, [000001B2E52ACB00][000001B2E38A7340 49] iPhone7Plus, [000001B2E52A6100][000001B2E38AB4C0 49] iPhoneSE, [000001B2E52AE900][000001B2E38AF640 49] iPhone8, [000001B2E52A6200][000001B2E38B37C0 49] iPhone8Plus, [000001B2E52AFB00][000001B2E38B7940 49] iPhoneX, [000001B2E52A6300][000001B2E38BBAC0 49] iPhoneXS, [000001B2E52ACF00][000001B2DE1340C0 49] iPhoneXSMax, [000001B2E5342F00][000001B2DE138240 49] iPhoneXR, [000001B2E52AD700][000001B2DE13C3C0 49] iPhone11, [000001B2E5342E00][000001B2DE140540 49] iPhone11Pro, [000001B2E52AD900][000001B2DE1446C0 49] iPhone11ProMax, [000001B2E5341200][000001B2DE148840 49] iPhoneSE2, [000001B2E52AFD00][000001B2E2EB0980 49] iPhone12Mini, [000001B2E5340B00][000001B2DE14CAC0 49] iPhone12, [000001B2E52ADD00][000001B2DE150C00 49] iPhone12Pro, [000001B2E5341400][000001B2E3062D40 49] iPhone12ProMax, [000001B2E52AF700][000001B2E306AEC0 49] iPadPro105, [000001B2E5341B00][000001B2E306F040 49] iPadPro129, [000001B2E52AC700][000001B2E30731C0 49] iPadPro97, [000001B2E5341300][000001B2E3077340 49] iPadPro2_129, [000001B2E52AD200][000001B2E307B4C0 49] iPad5, [000001B2E5343F00][000001B2E307F640 49] iPad6, [000001B2E52AFA00][000001B2E30837C0 49] iPad7, [000001B2E5341900][000001B2E3087940 49] iPad8, [000001B2E52AD400][000001B2DA829AC0 49] iPadPro11, [000001B2E5343500][000001B2DA82C0C0 49] iPadPro2_11, [000001B2E52AE300][000001B2DA830240 49] iPadPro3_129, [000001B2E5340F00][000001B2DA8343C0 49] iPadPro4_129, [000001B2E52AD100][000001B2DA838540 49] AppleTV, [000001B2E5343600][000001B2DA83C6C0 49] AppleTV4K, [000001B2E52AC600][000001B2DA840840 49] TVOS, [000001B2E5343900][000001B2DA8449C0 49] Mac, [000001B2E52AF200][000001B2DA848B40 49] MacClient, [000001B2E5343B00][000001B2E3066C80 49] MacNoEditor, [000001B2E52AD300][000001B2DA84CDC0 49] MacServer, [000001B2E5342400][000001B2DA850F00 49] Linux, [000001B2E52AE000][000001B2DA859080 49] LinuxAArch64, [000001B2E5343E00][000001B2DA85D200 49] LinuxNoEditor, [000001B2E52AF100][000001B2DA861380 49] LinuxAArch64NoEditor, [000001B2E5343200][000001B2DA865500 49] LinuxClient, [000001B2E52AE800][000001B2DA869680 49] LinuxAArch64Client, [000001B2E5340400][000001B2DA86D800 49] LinuxServer, [000001B2E52AC400][000001B2DA871980 49] LinuxAArch64Server, [000001B2E5341100][000001B2DA875B00 49] Android, [000001B2E52AE700][000001B2DA878100 49] Android_Low, [000001B2E5340800][000001B2DA87C280 49] Android_Mid, [000001B2E52AC300][000001B2DA880400 49] Android_High, [000001B2E5341C00][000001B2DA884580 49] Android_Default, [000001B2E52AF600][000001B2DA888700 49] Android_Adreno4xx, [000001B2E5342100][000001B2DA88C880 49] Android_Adreno5xx_Low, [000001B2E52AC900][000001B2DA890A00 49] Android_Adreno5xx, [000001B2E5341F00][000001B2E381EB80 49] Android_Adreno6xx, [000001B2E52ADB00][000001B2E3822D00 49] Android_Adreno6xx_Vulkan, [000001B2E5342B00][000001B2DA854E40 49] Android_Mali_T6xx, [000001B2E52A5900][000001B2E3826F80 49] Android_Mali_T7xx, [000001B2E52EF000][000001B2E382B0C0 49] Android_Mali_T8xx, [000001B2E52A7C00][000001B2E3833240 49] Android_Mali_G71, [000001B2E52EFB00][000001B2E38373C0 49] Android_Mali_G72, [000001B2E52A7900][000001B2E383B540 49] Android_Mali_G72_Vulkan, [000001B2E52EE100][000001B2E383F6C0 49] Android_Mali_G76, [000001B2E52A5A00][000001B2E3843840 49] Android_Mali_G76_Vulkan, [000001B2E52EC400][000001B2E38479C0 49] Android_Mali_G77, [000001B2E52A7500][000001B2E384BB40 49] Android_Mali_G77_Vulkan, [000001B2E52EDF00][000001B2E384E140 49] Android_Mali_G78, [000001B2E52A5000][000001B2E38522C0 49] Android_Mali_G78_Vulkan, [000001B2E52EE200][000001B2E3856440 49] Android_Mali_G710, [000001B2E52A5500][000001B2E385A5C0 49] Android_Mali_G710_Vulkan, [000001B2E52EF400][000001B2E385E740 49] Android_Vulkan_SM5, [000001B2E52A5800][000001B2E38628C0 49] Android_PowerVR_G6xxx, [000001B2E52EEE00][000001B2E3866A40 49] Android_PowerVR_GT7xxx, [000001B2E52A5B00][000001B2E386ABC0 49] Android_PowerVR_GE8xxx, [000001B2E52EF900][000001B2E386ED40 49] Android_PowerVR_GM9xxx, [000001B2E52A5E00][000001B2E3872EC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001B2E52ED500][000001B2E382F000 49] Android_TegraK1, [000001B2E52A7B00][000001B2E3877140 49] Android_Unknown_Vulkan, [000001B2E52ED100][000001B2E387B280 49] Lumin, [000001B2E52A4600][000001B2E387F3C0 49] Lumin_Desktop, [000001B2E52AE200][000001B2E3887540 49] HoloLens, 
+[2022.04.13-16.23.56:706][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.13-16.23.56:706][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.13-16.23.56:706][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.13-16.23.56:706][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.13-16.23.56:707][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.13-16.23.56:750][  0]LogNetVersion: RobotAI_SIM 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1208353601)
+[2022.04.13-16.23.57:219][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.13-16.23.57:292][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.13-16.23.57:299][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.04.13-16.23.57:299][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.04.13-16.23.57:299][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.13-16.23.59:086][  0]LogPython: Using Python 3.7.7
+[2022.04.13-16.24.00:036][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: C7910FC5433977DE146FFDB36A7E4F51 | Instance: 6F814F59487480656AA6D1A62FCE3BFA (AERO-353134-LT1-24420).
+[2022.04.13-16.24.01:212][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.13-16.24.01:252][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.13-16.24.03:668][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.03:668][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.04:463][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.04:621][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.04:735][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.04:818][  0]LogUProjectInfo: Found projects:
+[2022.04.13-16.24.04:983][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.13-16.24.05:497][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.13-16.24.05:672][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.13-16.24.05:672][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.13-16.24.06:556][  0]LogOcInput: OculusInput pre-init called
+[2022.04.13-16.24.06:928][  0]LogCollectionManager: Loaded 0 collections in 0.000762 seconds
+[2022.04.13-16.24.07:128][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/RobotAI_SIM/Saved/Collections/' took 0.00s
+[2022.04.13-16.24.07:128][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/RobotAI_SIM/Content/Developers/astroadmin/Collections/' took 0.00s
+[2022.04.13-16.24.07:128][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/RobotAI_SIM/Content/Collections/' took 0.00s
+[2022.04.13-16.24.07:128][  0]LogEngine: Initializing Engine...
+[2022.04.13-16.24.07:152][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.13-16.24.07:152][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2022.04.13-16.24.07:152][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.13-16.24.07:153][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.13-16.24.07:301][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.13-16.24.07:348][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.13-16.24.07:349][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.13-16.24.07:376][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.13-16.24.07:377][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.13-16.24.07:377][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.13-16.24.07:377][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.13-16.24.07:378][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.13-16.24.07:378][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.13-16.24.07:378][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.13-16.24.07:378][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.13-16.24.07:378][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 5: BackRight
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.04.13-16.24.07:456][  0]LogAudioMixer: Display: 7: SideRight
+[2022.04.13-16.24.07:553][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2022.04.13-16.24.07:557][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.13-16.24.07:559][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.13-16.24.07:559][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.13-16.24.07:560][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.13-16.24.07:560][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.13-16.24.07:560][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.04.13-16.24.07:561][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.13-16.24.07:561][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.13-16.24.07:561][  0]LogInit: FAudioDevice initialized.
+[2022.04.13-16.24.07:561][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.13-16.24.07:561][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.13-16.24.07:625][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/astroadmin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.13-16.24.07:626][  0]LogInit: Texture streaming: Enabled
+[2022.04.13-16.24.07:709][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.04.13-16.24.07:737][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.13-16.24.07:737][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.13-16.24.07:744][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.13-16.24.07:843][  0]LogInit: Transaction tracking system initialized
+[2022.04.13-16.24.08:052][  0]BlueprintLog: New page: Editor Load
+[2022.04.13-16.24.08:698][  0]LocalizationService: Localization service is disabled
+[2022.04.13-16.24.09:068][  0]TimingProfiler: Initialize
+[2022.04.13-16.24.09:068][  0]TimingProfiler: OnSessionChanged
+[2022.04.13-16.24.09:068][  0]LoadingProfiler: Initialize
+[2022.04.13-16.24.09:068][  0]LoadingProfiler: OnSessionChanged
+[2022.04.13-16.24.09:068][  0]NetworkingProfiler: Initialize
+[2022.04.13-16.24.09:068][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.13-16.24.09:068][  0]MemoryProfiler: Initialize
+[2022.04.13-16.24.09:068][  0]MemoryProfiler: OnSessionChanged
+[2022.04.13-16.24.09:592][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.13-16.24.09:592][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.13-16.24.09:640][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/RobotAI_SIM/Content/' took 0.00s
+[2022.04.13-16.24.09:640][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.09:640][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.09:641][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.09:641][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.09:641][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/Sphere.Sphere Referenced by Sphere
+[2022.04.13-16.24.09:641][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2022.04.13-16.24.11:267][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.13-16.24.11:271][  0]SourceControl: Source control is disabled
+[2022.04.13-16.24.11:271][  0]LogUnrealEdMisc: Loading editor; pre map load, took 33.356
+[2022.04.13-16.24.11:271][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.13-16.24.11:272][  0]LightingResults: New page: Lighting Build
+[2022.04.13-16.24.11:273][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-16.24.11:273][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-16.24.11:273][  0]MapCheck: New page: Map Check
+[2022.04.13-16.24.11:273][  0]LightingResults: New page: Lighting Build
+[2022.04.13-16.24.11:278][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.13-16.24.11:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.13-16.24.11:614][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.04.13-16.24.11:615][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.04.13-16.24.11:664][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.13-16.24.11:694][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.04.13-16.24.11:708][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.04.13-16.24.11:708][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.13-16.24.11:708][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2022.04.13-16.24.11:708][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.438
+[2022.04.13-16.24.11:711][  0]LogUnrealEdMisc: Total Editor Startup Time, took 33.796
+[2022.04.13-16.24.11:870][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.13-16.24.11:878][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.13-16.24.11:885][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.13-16.24.11:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.13-16.24.11:915][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0151 seconds. Added 3822 classes and 928 folders.
+[2022.04.13-16.24.11:917][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.13-16.24.11:918][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.13-16.24.11:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.13-16.24.11:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:918][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.13-16.24.11:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.04.13-16.24.11:919][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.13-16.24.11:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.13-16.24.11:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:919][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.13-16.24.11:919][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.04.13-16.24.11:919][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.13-16.24.11:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.13-16.24.11:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.13-16.24.11:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:920][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.13-16.24.11:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:920][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.13-16.24.11:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:920][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.13-16.24.11:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.13-16.24.11:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.13-16.24.11:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.13-16.24.11:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.13-16.24.11:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.13-16.24.11:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.13-16.24.11:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.13-16.24.11:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.13-16.24.11:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.04.13-16.24.11:923][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.13-16.24.11:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.13-16.24.11:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.13-16.24.11:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.04.13-16.24.11:924][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.13-16.24.11:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.13-16.24.11:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.13-16.24.11:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.13-16.24.11:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.13-16.24.11:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.13-16.24.11:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.13-16.24.11:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.13-16.24.11:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.13-16.24.11:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:926][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.13-16.24.11:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:926][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.13-16.24.11:926][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.13-16.24.11:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.13-16.24.11:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.13-16.24.11:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.13-16.24.11:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.04.13-16.24.11:928][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.13-16.24.11:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.13-16.24.11:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.13-16.24.11:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2022.04.13-16.24.11:929][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.13-16.24.11:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.13-16.24.11:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.13-16.24.11:930][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.04.13-16.24.11:930][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.13-16.24.11:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.13-16.24.11:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.13-16.24.11:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2022.04.13-16.24.11:931][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.13-16.24.11:931][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:931][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.13-16.24.11:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.13-16.24.11:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.04.13-16.24.11:932][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.13-16.24.11:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.13-16.24.11:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.13-16.24.11:933][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2022.04.13-16.24.11:933][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.13-16.24.11:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.13-16.24.11:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:933][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.13-16.24.11:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.04.13-16.24.11:934][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.13-16.24.11:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.13-16.24.11:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.13-16.24.11:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2022.04.13-16.24.11:935][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.13-16.24.11:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.13-16.24.11:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.13-16.24.11:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2022.04.13-16.24.11:936][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.13-16.24.11:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.13-16.24.11:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.13-16.24.11:937][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.04.13-16.24.11:937][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.13-16.24.11:937][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.13-16.24.11:937][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.13-16.24.11:937][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.13-16.24.11:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.13-16.24.11:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2022.04.13-16.24.11:995][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.13-16.24.12:001][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.04.13-16.24.12:190][  0]LogSlate: Took 0.000641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.13-16.24.12:192][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.13-16.24.12:193][  0]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.13-16.24.12:320][  0]LogRenderer: Reallocating scene render targets to support 300x300 Format 10 NumSamples 1 (Frame:1).
+[2022.04.13-16.24.12:356][  0]LogRenderer: Reallocating scene render targets to support 1000x1000 Format 10 NumSamples 1 (Frame:1).
+[2022.04.13-16.24.12:379][  0]LogRenderer: Reallocating scene render targets to support 1096x1000 Format 10 NumSamples 1 (Frame:1).
+[2022.04.13-16.24.12:525][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.13-16.24.12:525][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.04.13-16.24.12:525][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.04.13-16.24.12:525][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.04.13-16.24.12:526][  0]LogLoad: (Engine Initialization) Total time: 34.61 seconds
+[2022.04.13-16.24.12:526][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.13-16.24.12:542][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.12:542][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.12:542][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.12:543][  0]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.24.12:543][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Sphere.Sphere'
+[2022.04.13-16.24.12:581][  0]LogAssetRegistry: Asset discovery search completed in 17.1602 seconds
+[2022.04.13-16.24.12:587][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.04.13-16.24.12:589][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.13-16.24.12:681][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.13-16.24.12:812][  2]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.13-16.24.13:552][ 56]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.13-16.24.21:348][614]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.13-16.24.22:405][700]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-16.24.22:413][700]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-16.25.43:262][141]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.13-16.25.43:280][141]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.13-16.25.43:479][157]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.04.13-16.25.43:479][157]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.13-16.25.51:138][824]LogContentBrowser: Attempting asset rename: NewFolder -> RenderTarget
+[2022.04.13-16.26.01:184][825]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2022.04.13-16.26.01:198][825]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2022.04.13-16.26.06:265][233]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> WorldRenderTarget
+[2022.04.13-16.26.06:266][233]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2022.04.13-16.26.11:277][597]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/WorldRenderTarget.WorldRenderTarget
+[2022.04.13-16.26.11:357][597]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.04.13-16.27.05:531][718]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/WorldRenderTarget1AD6A22449CF913F31496FBBC4B1FD9A.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/WorldRenderTarget.uasset'
+[2022.04.13-16.27.05:548][718]AssetCheck: New page: Asset Save: WorldRenderTarget
+[2022.04.13-16.27.05:548][718]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/WorldRenderTarget.WorldRenderTarget
+[2022.04.13-16.27.07:206][842]LogSlate: Window 'WorldRenderTarget' being destroyed
+[2022.04.13-16.27.07:215][842]LogSlate: Window 'WorldRenderTarget' being destroyed
+[2022.04.13-16.27.16:959][665]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/BPC_WorldMap.BPC_WorldMap
+[2022.04.13-16.27.17:213][665]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2022.04.13-16.27.18:134][665]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.13-16.27.19:255][732]LogSlate: Window 'BPC_WorldMap' being destroyed
+[2022.04.13-16.27.19:263][732]LogSlate: Window 'BPC_WorldMap' being destroyed
+[2022.04.13-16.27.19:268][732]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-16.27.19:269][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-16.27.28:380][719]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.13-16.27.29:816][719]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.13-16.27.29:825][719]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.13-16.27.29:837][719]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.13-16.27.37:595][393]LogContentBrowser: Attempting asset rename: NewBlueprint -> Bp_World_Capture
+[2022.04.13-16.27.37:600][393]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.13-16.27.41:535][734]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_World_Capture.Bp_World_Capture
+[2022.04.13-16.28.03:953][469]LogSlate: Window 'Bp_World_Capture' being destroyed
+[2022.04.13-16.28.03:965][469]LogSlate: Window 'Bp_World_Capture' being destroyed
+[2022.04.13-16.28.03:972][469]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-16.28.03:972][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-16.28.10:160][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.04.13-16.28.11:762][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.13-16.28.11:797][ 43]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_World_Capture.Bp_World_Capture
+[2022.04.13-16.28.13:637][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.04.13-16.28.13:651][ 43]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.28.13:651][ 43]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.28.13:652][ 43]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.27\Engine\Content\BasicShapes\Sphere.uasset: Failed to load '/Game/ThirdPersonBP/Blueprints/Sphere': Can't find file.
+[2022.04.13-16.28.16:990][337]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.13-16.28.16:993][337]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.04.13-16.28.20:768][337]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.04.13-16.28.20:787][337]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.04.13-16.28.20:798][337]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.04.13-16.28.28:178][960]LogContentBrowser: Attempting asset rename: NewBlueprint -> Bp_WorldCapture
+[2022.04.13-16.28.28:185][960]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.04.13-16.28.29:895][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.Bp_WorldCapture
+[2022.04.13-16.29.43:875][661]LogRenderer: Reallocating scene render targets to support 2048x2048 Format 10 NumSamples 1 (Frame:3185).
+[2022.04.13-16.31.22:008][266]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.13-16.35.20:310][678]LogSlate: Window 'Color Picker' being destroyed
+[2022.04.13-16.40.33:529][506]BlueprintLog: New page: Compile Bp_WorldCapture
+[2022.04.13-16.40.33:539][506]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.40.33:579][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.04.13-16.40.33:582][506]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.40.33:590][506]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.40.35:673][636]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/Bp_WorldCapture914051FB458F859C739DA19862656DBA.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.uasset'
+[2022.04.13-16.40.35:696][636]AssetCheck: New page: Asset Save: Bp_WorldCapture
+[2022.04.13-16.40.35:696][636]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.Bp_WorldCapture
+[2022.04.13-16.40.36:483][688]LogSlate: Window 'Bp_WorldCapture' being destroyed
+[2022.04.13-16.40.36:493][688]LogSlate: Window 'Bp_WorldCapture' being destroyed
+[2022.04.13-16.40.36:499][688]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-16.40.36:499][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-16.40.41:135][ 74]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.40.41:135][ 74]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:136][ 74]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:137][ 74]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:142][ 74]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:158][ 74]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:164][ 75]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:166][ 75]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:180][ 76]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:191][ 77]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:203][ 78]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:208][ 78]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:222][ 79]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:226][ 79]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:237][ 80]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:263][ 82]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:265][ 82]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:280][ 83]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:292][ 83]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:301][ 84]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:305][ 84]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:315][ 85]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:333][ 87]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:346][ 88]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:358][ 89]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:378][ 91]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:387][ 92]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:396][ 93]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:407][ 94]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:415][ 95]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:425][ 96]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:434][ 97]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:444][ 98]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:455][ 99]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:465][100]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:475][101]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:487][102]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:497][102]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:504][103]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:514][104]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:526][105]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:552][108]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:566][109]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:568][109]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:581][110]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:708][125]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:718][126]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:729][127]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:747][129]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:763][131]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:773][131]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:779][132]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:788][133]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:799][134]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:810][135]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:820][136]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:831][137]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:842][138]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:851][139]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:862][140]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:870][140]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:876][141]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:901][144]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:903][144]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.41:970][152]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.42:087][166]LogBlueprintUserMessages: [Bp_WorldCapture] Error: Bounds not Valid
+[2022.04.13-16.40.42:154][173]LogBlueprintUserMessages: [Bp_WorldCapture_C_1] Error: Bounds not Valid
+[2022.04.13-16.40.42:156][173]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.42:162][173]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.42:163][173]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:461][696]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:475][697]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:521][700]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:578][704]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:608][706]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:622][707]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:637][708]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:651][709]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:666][710]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:682][711]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:699][712]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:714][713]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:728][714]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:744][715]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:757][716]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:772][717]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:800][719]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:815][720]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:830][721]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:845][722]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.49:859][723]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:159][744]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:187][746]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:202][747]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:216][748]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:247][750]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:289][753]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:303][754]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:346][757]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:402][761]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:416][762]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:446][764]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.50:957][800]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:294][824]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:451][835]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:480][837]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:495][838]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:509][839]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:526][840]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:554][842]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:625][847]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:893][866]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:908][867]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:924][868]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:939][869]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.51:969][871]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:028][875]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:058][877]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:073][878]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:088][879]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:102][880]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:131][882]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:147][883]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:176][885]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:190][886]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:278][892]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:351][897]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:591][914]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.40.52:689][921]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.41.54:319][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.04.13-16.41.54:452][258]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMap_Auto11A2B32C34CEFF1EA725C849C82182415.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.04.13-16.41.54:464][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.167
+[2022.04.13-16.41.54:464][258]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.167
+[2022.04.13-16.42.44:507][819]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.Bp_WorldCapture
+[2022.04.13-16.42.44:952][819]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.42.51:290][164]BlueprintLog: New page: Compile Bp_WorldCapture
+[2022.04.13-16.42.51:304][164]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.42.51:316][164]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.42.51:348][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.04.13-16.42.51:348][164]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.42.51:354][164]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.42.51:363][164]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.42.51:368][164]LogBlueprintUserMessages: [Bp_WorldCapture_C_0] Error: Bounds not Valid
+[2022.04.13-16.42.52:075][190]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/Bp_WorldCaptureED163BB94FDA2FAAA639D2BF2B8D1EC9.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.uasset'
+[2022.04.13-16.42.52:091][190]AssetCheck: New page: Asset Save: Bp_WorldCapture
+[2022.04.13-16.42.52:091][190]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Actors/Bp_WorldCapture.Bp_WorldCapture
+[2022.04.13-16.43.02:175][735]LogSlate: Window 'Bp_WorldCapture' being destroyed
+[2022.04.13-16.43.02:185][735]LogSlate: Window 'Bp_WorldCapture' being destroyed
+[2022.04.13-16.43.02:190][735]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-16.43.02:190][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-16.43.06:319][ 25]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:343][ 26]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:365][ 27]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:386][ 28]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:406][ 29]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:427][ 30]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:447][ 31]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:539][ 38]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:592][ 42]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:612][ 43]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:643][ 45]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:737][ 52]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:760][ 53]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:781][ 54]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:803][ 55]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:825][ 56]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:844][ 57]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:864][ 58]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:884][ 59]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:903][ 60]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:924][ 61]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:944][ 62]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:965][ 63]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.06:985][ 64]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:005][ 65]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:027][ 66]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:046][ 67]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:065][ 68]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:085][ 69]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:222][ 79]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:245][ 80]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:269][ 81]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:290][ 82]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:310][ 83]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:330][ 84]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:349][ 85]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:368][ 86]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:388][ 87]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:410][ 88]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:443][ 90]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:483][ 93]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:609][102]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:633][103]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:655][104]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:675][105]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:696][106]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:716][107]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:738][108]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.07:977][125]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:000][126]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:021][127]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:041][128]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:063][129]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:169][137]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:193][138]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:331][148]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:799][182]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.08:938][192]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.43.32:229][198]LogBlueprintUserMessages: [Bp_WorldCapture_2] Error: Bounds not Valid
+[2022.04.13-16.44.09:171][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.13-16.44.09:307][848]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMap3AEA62AD4671EFD8CE142698DA2A6827.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.13-16.44.09:600][848]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMap_BuiltData89318D9B47066096E83848BFA5CDC959.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.13-16.44.09:624][848]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.13-16.44.09:624][848]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.13-16.44.09:624][848]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.13-16.44.27:467][132]Cmd: TRANSACTION UNDO
+[2022.04.13-16.44.27:467][132]LogEditorTransaction: Undo Move Actors
+[2022.04.13-16.44.28:468][184]Cmd: TRANSACTION UNDO
+[2022.04.13-16.44.28:468][184]LogEditorTransaction: Undo Move Actors
+[2022.04.13-16.44.33:359][539]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2022.04.13-16.44.36:182][739]Cmd: TRANSACTION UNDO
+[2022.04.13-16.44.36:182][739]LogEditorTransaction: Undo Clicking on Actors
+[2022.04.13-16.44.56:765][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.04.13-16.44.56:902][315]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMapA6B3942A4317CD2A392902BDFD0F867E.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.04.13-16.44.57:191][315]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMap_BuiltData4379642949E0E3BDB4C73D86C4CAFFDF.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.04.13-16.44.57:214][315]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.13-16.44.57:214][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.04.13-16.44.57:214][315]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.04.13-16.45.57:194][671]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/WorldRenderTarget.WorldRenderTarget
+[2022.04.13-16.46.12:774][623]LogSlate: Window 'WorldRenderTarget' being destroyed
+[2022.04.13-16.46.12:784][623]LogSlate: Window 'WorldRenderTarget' being destroyed
+[2022.04.13-16.46.22:932][548]LogTexture: Display: Building textures: WorldRenderTarget_Tex (OODLE_AutoDXT, 2048X2048)
+[2022.04.13-16.46.23:091][549]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.04.13-16.46.27:362][827]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/WorldRenderTarget_Tex.WorldRenderTarget_Tex
+[2022.04.13-16.46.32:845][161]LogSlate: Window 'WorldRenderTarget_Tex' being destroyed
+[2022.04.13-16.46.32:860][161]LogSlate: Window 'WorldRenderTarget_Tex' being destroyed
+[2022.04.13-16.46.43:979][951]LogContentBrowser: Attempting asset rename: WorldRenderTarget_Tex -> CaptureWorldTexture
+[2022.04.13-16.46.44:160][951]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/CaptureWorldTexture3A65CAAA4BDA7B6CCD3C53BFB0A17287.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/CaptureWorldTexture.uasset'
+[2022.04.13-16.46.44:241][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.13-16.46.44:279][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.04.13-16.46.44:297][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.13-16.46.44:336][951]AssetCheck: New page: Asset Save: CaptureWorldTexture
+[2022.04.13-16.46.44:336][951]LogContentValidation: Display: Validating Texture2D /Game/ThirdPersonBP/Blueprints/WorldMapSystem/RenderTarget/CaptureWorldTexture.CaptureWorldTexture
+[2022.04.13-16.48.28:704][944]LogSlate: Window 'New Level' being destroyed
+[2022.04.13-16.48.31:690][184]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.04.13-16.48.31:719][184]LogContentBrowser: Creating deferred item: NewFolder
+[2022.04.13-16.48.36:474][525]LogContentBrowser: Attempting asset rename: NewFolder -> Widget
+[2022.04.13-16.48.36:496][525]LogContentBrowser: End creating deferred item NewFolder
+[2022.04.13-16.49.32:409][652]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.04.13-16.49.32:424][652]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.04.13-16.49.34:605][806]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2022.04.13-16.49.34:616][806]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.04.13-16.49.42:628][457]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_WorldMap
+[2022.04.13-16.49.42:662][457]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.SKEL_W_WorldMap_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/NewWidgetBlueprint.PackageMetaData'
+[2022.04.13-16.49.42:662][457]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/NewWidgetBlueprint.PackageMetaData'
+[2022.04.13-16.49.42:662][457]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/NewWidgetBlueprint.PackageMetaData'
+[2022.04.13-16.49.42:662][457]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/NewWidgetBlueprint.PackageMetaData'
+[2022.04.13-16.49.42:662][457]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/NewWidgetBlueprint.PackageMetaData'
+[2022.04.13-16.49.42:715][457]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap92EC68EE470A0F097EA903A230E51149.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-16.49.42:851][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.04.13-16.49.42:913][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.04.13-16.49.42:929][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.13-16.49.42:970][457]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-16.49.42:970][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.49.44:546][546]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.50.48:201][424]LogEditorTransaction: Undo Add Widget
+[2022.04.13-16.52.07:805][ 22]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-16.52.07:877][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.04.13-16.53.44:781][165]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-16.53.44:821][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.04.13-16.53.45:653][192]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap83C968CF48F794D0038B8BAB1B33BB7E.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-16.53.45:674][192]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-16.53.45:674][192]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.54.54:434][279]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-16.54.54:481][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.04.13-16.54.55:500][330]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap33BFA3974EEBD7F8F6418EA3645E8126.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-16.54.55:517][330]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-16.54.55:517][330]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.56.23:507][722]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-16.56.23:553][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.04.13-16.56.24:774][780]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap53A27B4F41761D4081ABDAB6488AD7B3.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-16.56.24:791][780]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-16.56.24:791][780]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.56.51:401][ 56]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-16.56.51:449][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.04.13-16.56.52:347][ 89]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMapD478ACE44B177797D420BB9A05CBA3CB.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-16.56.52:368][ 89]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-16.56.52:368][ 89]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-16.57.20:948][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.04.13-16.57.21:385][502]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/ThirdPersonExampleMap_Auto274C75BD542215ACBAD3482B7B0E127C5.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.04.13-16.57.21:399][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.480
+[2022.04.13-16.57.21:399][502]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.480
+[2022.04.13-16.57.21:401][502]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap] ([4] browsable assets)...
+[2022.04.13-16.57.21:401][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap]
+[2022.04.13-16.57.21:408][502]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap_Auto2A7442A564E6EFA29633E1D9423FE248B.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap_Auto2.uasset'
+[2022.04.13-16.57.21:409][502]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.04.13-17.01.18:690][495]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.01.18:740][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.04.13-17.01.19:845][547]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMapD6FA8200425F9C831B6E8195E67B22C8.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-17.01.19:863][547]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-17.01.19:863][547]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-17.03.36:376][168]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.03.36:426][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.04.13-17.03.37:315][206]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMapCE8FCFFA4D4293B683F504A478752DC0.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-17.03.37:334][206]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-17.03.37:334][206]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-17.04.14:156][354]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.04.14:210][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.04.13-17.04.15:205][404]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap41F28EEA4BB3A0B6F2C5E8B7CB1016E0.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-17.04.15:224][404]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-17.04.15:224][404]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-17.04.53:675][540]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.04.53:726][540]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.04.13-17.04.55:147][612]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMap283406DF4C607216CBAC069360CBF54A.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-17.04.55:165][612]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-17.04.55:165][612]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-17.06.57:196][466]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.06.57:246][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.04.13-17.07.20:680][383]LogSlate: Window 'Delete widgets' being destroyed
+[2022.04.13-17.07.20:708][383]LogScript: Warning: Accessed None trying to read property MapSizeBox
+	W_WorldMap_C /Engine/Transient.World_11:W_WorldMap_C_77
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:SetMapSize:006C
+[2022.04.13-17.07.20:708][383]LogScript: Warning: Accessed None trying to read property MapSizeBox
+	W_WorldMap_C /Engine/Transient.World_11:W_WorldMap_C_77
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:SetMapSize:00BC
+[2022.04.13-17.07.20:708][383]LogScript: Warning: Accessed None trying to read property Background
+	W_WorldMap_C /Engine/Transient.World_11:W_WorldMap_C_77
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:ExecuteUbergraph_W_WorldMap:0055
+[2022.04.13-17.07.21:906][444]Cmd: TRANSACTION UNDO
+[2022.04.13-17.07.21:906][444]LogEditorTransaction: Undo Remove Widget
+[2022.04.13-17.08.22:491][902]LogEditorTransaction: Undo Edit Bottom
+[2022.04.13-17.08.24:384][981]LogEditorTransaction: Redo Edit Bottom
+[2022.04.13-17.08.33:325][488]BlueprintLog: New page: Compile W_WorldMap
+[2022.04.13-17.08.33:375][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.13-17.08.34:016][517]LogSavePackage: Moving '../../../../../UnrealProjects/RobotAI_SIM/Saved/W_WorldMapC7736BCD432C38829C008AAF0CD54155.tmp' to '../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.uasset'
+[2022.04.13-17.08.34:036][517]AssetCheck: New page: Asset Save: W_WorldMap
+[2022.04.13-17.08.34:036][517]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap
+[2022.04.13-17.08.34:661][555]LogSlate: Window 'W_WorldMap' being destroyed
+[2022.04.13-17.08.34:670][555]LogSlate: Window 'W_WorldMap' being destroyed
+[2022.04.13-17.08.34:676][555]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-17.08.34:676][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-17.08.34:687][555]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-17.08.34:687][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-17.08.38:396][878]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.04.13-17.08.38:412][878]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.04.13-17.08.42:396][161]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> W_Main
+[2022.04.13-17.08.42:402][161]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.04.13-17.08.43:928][269]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.W_Main
+[2022.04.13-17.09.03:428][488]LogEditorTransaction: Undo Add Widget
+[2022.04.13-17.09.07:334][715]LogScript: Warning: Accessed None trying to read property MapSizeBox
+	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.W_Main:WidgetTree.W_WorldMap_1
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:SetMapSize:006C
+[2022.04.13-17.09.07:334][715]LogScript: Warning: Accessed None trying to read property MapSizeBox
+	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.W_Main:WidgetTree.W_WorldMap_1
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:SetMapSize:00BC
+[2022.04.13-17.09.07:334][715]LogScript: Warning: Accessed None trying to read property Background
+	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.W_Main:WidgetTree.W_WorldMap_1
+	Function /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.W_WorldMap_C:ExecuteUbergraph_W_WorldMap:0055
+[2022.04.13-17.10.37:735][999]BlueprintLog: New page: Compile W_Main
+[2022.04.13-17.10.37:804][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.04.13-17.10.53:610][ 19]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.10.53:617][ 19]Message dialog closed, result: Yes, title: Message, text: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to private object(s) in an external package.
+External Object(s):
+SlateAccessibleWidgetData_0
+  
+Try to find the chain of references to that object (may take some time)?
+[2022.04.13-17.10.53:617][ 19]LogSavePackage: Warning: 
+Referencers of SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0:
+[2022.04.13-17.10.53:737][ 19]LogSavePackage: Warning: 	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C (1 refs)
+[2022.04.13-17.10.53:737][ 19]LogSavePackage: Warning: 		0) ObjectProperty /Script/UMG.Widget:AccessibleWidgetData
+[2022.04.13-17.11.03:100][ 19]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.11.03:107][ 19]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main' (W_Main.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.04.13-17.11.05:330][ 19]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.11.05:337][ 19]Message dialog closed, result: Yes, title: Message, text: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to private object(s) in an external package.
+External Object(s):
+SlateAccessibleWidgetData_0
+  
+Try to find the chain of references to that object (may take some time)?
+[2022.04.13-17.11.05:337][ 19]LogSavePackage: Warning: 
+Referencers of SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0:
+[2022.04.13-17.11.05:455][ 19]LogSavePackage: Warning: 	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C (1 refs)
+[2022.04.13-17.11.05:455][ 19]LogSavePackage: Warning: 		0) ObjectProperty /Script/UMG.Widget:AccessibleWidgetData
+[2022.04.13-17.11.06:651][ 19]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.11.06:658][ 19]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main' (W_Main.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.04.13-17.11.06:669][ 19]EditorErrors: New page: Save Output
+[2022.04.13-17.11.06:670][ 19]EditorErrors: Warning: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to external private object SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0 (AccessibleWidgetData)
+[2022.04.13-17.11.06:670][ 19]EditorErrors: Warning: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to external private object SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0 (AccessibleWidgetData)
+[2022.04.13-17.11.08:626][ 19]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.04.13-17.11.08:633][ 19]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main
+[2022.04.13-17.11.18:232][501]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-17.11.18:244][501]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-17.11.26:147][642]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.11.26:154][642]Message dialog closed, result: Yes, title: Message, text: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to private object(s) in an external package.
+External Object(s):
+SlateAccessibleWidgetData_0
+  
+Try to find the chain of references to that object (may take some time)?
+[2022.04.13-17.11.26:154][642]LogSavePackage: Warning: 
+Referencers of SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0:
+[2022.04.13-17.11.26:275][642]LogSavePackage: Warning: 	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C (1 refs)
+[2022.04.13-17.11.26:275][642]LogSavePackage: Warning: 		0) ObjectProperty /Script/UMG.Widget:AccessibleWidgetData
+[2022.04.13-17.11.29:394][642]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.11.29:402][642]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main' (W_Main.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.04.13-17.11.29:412][642]EditorErrors: New page: Save Output
+[2022.04.13-17.11.29:412][642]EditorErrors: Warning: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.uasset: Graph is linked to external private object SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0 (AccessibleWidgetData)
+[2022.04.13-17.11.32:065][642]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2022.04.13-17.11.32:072][642]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main
+[2022.04.13-17.11.58:744][344]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-17.11.58:757][344]LogSlate: Window 'Message Log' being destroyed
+[2022.04.13-17.12.07:389][832]LogSlate: Window 'W_Main' being destroyed
+[2022.04.13-17.12.07:397][832]LogSlate: Window 'W_Main' being destroyed
+[2022.04.13-17.12.07:403][832]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-17.12.07:403][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-17.12.07:415][832]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.04.13-17.12.07:415][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.13-17.12.13:456][180]LogContentBrowser: Attempting asset rename: W_Main -> _Widget
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.SKEL__Widget_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget._Widget_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget._Widget:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget._Widget:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget._Widget:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.SKEL__Widget_C:PreConstruct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.SKEL__Widget_C:Construct' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.13:487][180]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.SKEL__Widget_C:Tick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_Main.PackageMetaData'
+[2022.04.13-17.12.27:672][180]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.12.27:680][180]Message dialog closed, result: Yes, title: Message, text: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.uasset: Graph is linked to private object(s) in an external package.
+External Object(s):
+SlateAccessibleWidgetData_0
+  
+Try to find the chain of references to that object (may take some time)?
+[2022.04.13-17.12.27:680][180]LogSavePackage: Warning: 
+Referencers of SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0:
+[2022.04.13-17.12.27:793][180]LogSavePackage: Warning: 	W_WorldMap_C /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C (1 refs)
+[2022.04.13-17.12.27:794][180]LogSavePackage: Warning: 		0) ObjectProperty /Script/UMG.Widget:AccessibleWidgetData
+[2022.04.13-17.12.33:426][180]LogSlate: Window 'Message' being destroyed
+[2022.04.13-17.12.33:431][180]Message dialog closed, result: Cancel, title: Message, text: The asset '/Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget' (_Widget.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2022.04.13-17.12.33:442][180]EditorErrors: New page: Save Output
+[2022.04.13-17.12.33:442][180]EditorErrors: Warning: Can't save ../../../../../UnrealProjects/RobotAI_SIM/Content/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/_Widget.uasset: Graph is linked to external private object SlateAccessibleWidgetData /Game/ThirdPersonBP/Blueprints/WorldMapSystem/Widget/W_WorldMap.Default__W_WorldMap_C:SlateAccessibleWidgetData_0 (AccessibleWidgetData)
+[2022.04.13-17.12.33:653][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.04.13-17.12.33:696][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.04.13-17.12.33:717][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.13-17.12.33:761][180]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.13-17.12.33:838][180]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.077 s
+[2022.04.13-17.12.33:838][180]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: 
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: Ensure condition failed: Lhs.CurrentNum == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 219]
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: Stack: 
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff5641f6a9 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff5640c355 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff50d14b0e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff50d5a8ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff50d7ad7b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff50d59b27 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71cb40e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71c99167 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71c40448 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71c1f527 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71ca1bf6 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71ca3008 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71ba1114 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff719f2112 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71a55087 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff71a48756 UE4Editor-Slate.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff8be7bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff8be692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff8be7e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff8be64410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fffc961e7e8 USER32.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fffc961e229 USER32.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fff8be7fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd0f7621 UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd110fcc UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd1110ba UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd1140dd UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd125984 UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007ff6bd12853a UE4Editor.exe!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fffc8e97034 KERNEL32.DLL!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: [Callstack] 0x00007fffc9e42651 ntdll.dll!UnknownFunction []
+[2022.04.13-17.12.33:839][180]LogOutputDevice: Error: 
