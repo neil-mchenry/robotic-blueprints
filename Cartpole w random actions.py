@@ -7,7 +7,7 @@ from stable_baselines3.common.evaluation import evaluate_policy
 env_name = 'CartPole-v1'
 env = gym.make(env_name) ## these lines set up a cartpole environment where the the model can take place
 
-for episode in range(1,11):
+for episode in range(1,100):
     score = 0
     state = env.reset()
     done = False
@@ -18,5 +18,5 @@ for episode in range(1,11):
         n_state, reward, done, info = env.step(action)
         score += reward
 
-        print('Episode:', episode, 'Score:', score)
+    print('Episode:', episode, 'Score:', score)
 env.close()
