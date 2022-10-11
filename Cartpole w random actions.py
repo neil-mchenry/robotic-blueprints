@@ -1,13 +1,15 @@
+from curses import wrapper
 import gym
+from gym.wrappers import Monitor
 from stable_baselines3 import ppo
 from stable_baselines3.common.vec_env import dummy_vec_env
 from stable_baselines3.common.evaluation import evaluate_policy
 
 
-env_name = 'CartPole-v1'
-env = gym.make(env_name) ## these lines set up a cartpole environment where the the model can take place
-
-for episode in range(1,100):
+## these lines set up a cartpole environment where the the model can take place
+env = gym.make('CartPole-v1')
+env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Desktop\\recordings' , video_callable=lambda episode_id: True)
+for episode in range(1,11):
     score = 0
     state = env.reset()
     done = False
@@ -20,3 +22,5 @@ for episode in range(1,100):
 
     print('Episode:', episode, 'Score:', score)
 env.close()
+
+
