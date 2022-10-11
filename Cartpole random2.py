@@ -121,6 +121,7 @@ for each_game in range(10):
     prev_obs = []
     env.reset()
     for _ in range(goal_steps):
+        env.render()
         if len(prev_obs) == 0:
             action = random.randrange(0,2)
         else:
@@ -131,9 +132,11 @@ for each_game in range(10):
         prev_obs = new_observation
         game_memory.append([new_observation, action])
         score += reward
+        print(score)
         if done:
             break
     scores.append(score)
 
-print('Average Score: ', sum(scores)/len(scores))
+print(scores)
+print('Average Score: ', (sum(scores)) / (len(scores)))
 print('Choice 1: {}, Choice 0: {}'.format(choices.count(1)/len(choices), choices.count(0)/len(choices)))
