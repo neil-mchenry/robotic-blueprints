@@ -49,6 +49,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
