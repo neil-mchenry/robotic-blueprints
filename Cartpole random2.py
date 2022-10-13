@@ -114,7 +114,7 @@ model = train_model(training_data)
 
 scores = [] 
 choices = []
-
+env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Desktop\\recordings\\tensorflow2' , video_callable=lambda episode_id: True)
 for each_game in range(10):
     score = 0
     game_memory = []
