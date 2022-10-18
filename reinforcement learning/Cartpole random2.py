@@ -116,7 +116,7 @@ model = train_model(training_data)
 
 scores = [] 
 choices = []
-env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Desktop\\recordings\\tensorflow7' , video_callable=lambda episode_id: True)
+env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\tf3' , video_callable=lambda episode_id: True)
 for each_game in range(10):
     score = 0
     game_memory = []
@@ -141,4 +141,4 @@ for each_game in range(10):
 
 print('Average Score: ', (sum(scores)) / (len(scores)))
 print('Choice 1: {}, Choice 0: {}'.format(choices.count(1)/len(choices), choices.count(0)/len(choices)))
-model.save('C:\\Users\\mluke\\Desktop\\recordings\\tensorflow7\\7model\\model.h5')
+model.save('C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\tf3\\model\\model.keras')

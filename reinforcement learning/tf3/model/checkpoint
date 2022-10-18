@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\tf3\\model\\model.keras"
+all_model_checkpoint_paths: "C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\tf3\\model\\model.keras"

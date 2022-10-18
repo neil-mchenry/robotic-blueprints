@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 
 
 
-model = load_model("C://Users\\mluke\\Desktop\\recordings\\tensorflow7\\7model\\model.h5")
+model = load_model("C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\tf3\\model\\model.keras")
 
 goal_steps = 500
 score_requirement = 50
