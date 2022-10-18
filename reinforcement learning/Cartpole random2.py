@@ -2,7 +2,9 @@ import gym
 import random
 from curses import wrapper
 import numpy as np
+import tensorflow as tf
 import tflearn
+from tensorflow import keras
 from tflearn.layers.core import input_data, dropout, fully_connected
 from tflearn.layers.estimator import regression
 from statistics import mean, median
@@ -114,7 +116,7 @@ model = train_model(training_data)
 
 scores = [] 
 choices = []
-env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Desktop\\recordings\\tensorflow2' , video_callable=lambda episode_id: True)
+env = gym.wrappers.Monitor(env, 'C:\\Users\\mluke\\Desktop\\recordings\\tensorflow7' , video_callable=lambda episode_id: True)
 for each_game in range(10):
     score = 0
     game_memory = []
@@ -132,11 +134,11 @@ for each_game in range(10):
         prev_obs = new_observation
         game_memory.append([new_observation, action])
         score += reward
-        print(score)
         if done:
             break
     scores.append(score)
+    print(score)
 
-print(scores)
 print('Average Score: ', (sum(scores)) / (len(scores)))
 print('Choice 1: {}, Choice 0: {}'.format(choices.count(1)/len(choices), choices.count(0)/len(choices)))
+model.save('C:\\Users\\mluke\\Desktop\\recordings\\tensorflow7\\7model\\model.h5')
