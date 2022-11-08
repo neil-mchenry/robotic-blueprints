@@ -2,6 +2,7 @@ import numpy as np
 import random
 
 import gym
+import gym_game
 
 def simulate():
     global epsilon, epsilon_decay
