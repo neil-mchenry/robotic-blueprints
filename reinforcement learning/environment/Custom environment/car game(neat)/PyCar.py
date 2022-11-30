@@ -185,7 +185,7 @@ def run_car(genomes, config):
 
 if __name__ == "__main__":
     # Set configuration file
-    config_path = "C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\environment\\Custom environment\\config-feedforward.txt"
+    config_path = "C:\\Users\\mluke\\Documents\\GitHub\\robotic-blueprints\\reinforcement learning\\environment\\Custom environment\\car game(neat)\\config-feedforward.txt"
     config = neat.config.Config(neat.DefaultGenome, neat.DefaultReproduction,
                                 neat.DefaultSpeciesSet, neat.DefaultStagnation, config_path)
 
